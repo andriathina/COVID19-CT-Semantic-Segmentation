@@ -14,4 +14,4 @@ Utilizing the **COVID-19 CT Lung and Infection Segmentation Dataset**, the objec
 ## Installation & Execution Guide
 1. **Clone the repository:**
    ```bash
-   git clone <(https://github.com/andriathina/COVID19-CT-Semantic-Segmentation)>
+   git clone (https://github.com/andriathina/COVID19-CT-Semantic-Segmentation)
